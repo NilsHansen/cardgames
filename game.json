@@ -1,0 +1,7 @@
+{
+    "name": "Solitaire",
+    "img" : "images/solitaire.png",
+    "desc" : "Ein Spiel, dass man von Windows her kennt. In dieser Variante ein 'Deal-One' Modus.",
+    "wip" : false,
+    "tags" : ["solitaire","nostalgie","niceEndAnimation"]
+}
